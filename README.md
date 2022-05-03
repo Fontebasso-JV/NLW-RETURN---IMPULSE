@@ -19,37 +19,16 @@
 
   <img alt="License" src="https://img.shields.io/github/license/andrelinos/NLW8.0---web?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/andrelinos/NLW8.0---web?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/andrelinos/NLW8.0---web?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/andrelinos/NLW8.0---web?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
 
-<!-- <h4 align="center"> 
-	🚧  Web 🚀 Under construction...  🚧
-</h4> 
 
-<hr> -->
-
-<p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#-telas-da-aplica%C3%A7%C3%A3o)">Telas</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-iniciando-o-projeto">Iniciando</a> &#xa0; | &#xa0;
-  <a href="#memo-licen%C3%A7a">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/andrelinos" target="_blank">Autor</a>
-</p>
 
 <br>
 
 ## :dart: Sobre ##
 
-Descrição do projeto
+Sera desenvolvido um Widget para receber FeedBack!
 
 ## :sparkles: Funcionalidades ##
 
@@ -70,7 +49,7 @@ Descrição do projeto
 
 ## :rocket: Tecnologias ##
 
-Este projeto foi feito usando as seguintes tecnologias
+Este projeto está sendo criado utilizando as seguintes tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)
